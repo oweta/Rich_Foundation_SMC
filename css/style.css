@@ -101,6 +101,39 @@
     background: url(../img/carousel-1.jpg) top right no-repeat;
     background-size: cover;
 }
+.bg-hero-1 {
+    background: url(../img/carousel-about.jpg) top right no-repeat;
+    background-size: cover;
+}
+.bg-hero-2 {
+    background: url(../img/carousel-services.jpg) top right no-repeat;
+    background-size: cover;
+}
+
+.bg-hero-3 {
+    background: url(../img/carousel-products.jpg) top right no-repeat;
+    background-size: cover;
+}
+
+.bg-hero-4 {
+    background: url(../img/carousel-about.jpg) top right no-repeat;
+    background-size: cover;
+}
+
+.bg-hero-5 {
+    background: url(../img/carousel-services.jpg) top right no-repeat;
+    background-size: cover;
+}
+
+.bg-hero-6 {
+    background: url(../img/carousel-services.jpg) top right no-repeat;
+    background-size: cover;
+}
+
+.bg-hero-7 {
+    background: url(../img/carousel-services.jpg) top right no-repeat;
+    background-size: cover;
+}
 
 @media (min-width: 991.98px) {
     .banner {
